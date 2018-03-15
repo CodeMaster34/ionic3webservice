@@ -11,10 +11,10 @@ Http Get, Http Post
 4-) Import WebService Provider your page and add public or private your constructor tag
 
 - Example:
+       
         import { HttpClientModule } from '@angular/common/http';
         import { WebServiceProvider } from '../providers/web-service/web-service';
         ...
-
         imports: [
             ...
             BrowserModule,
