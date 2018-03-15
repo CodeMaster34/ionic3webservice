@@ -5,10 +5,10 @@
 Http Get, Http Post
 
 # USİNG GENERAL
-1-) Create Provider WebService
-2-) Import WebService Provider and HttpClientModule  "app/app.module.ts" 
-3-) Add "WebServiceProvider" providers tag and Add HttpClientModule add imports tag
-4-) Import WebService Provider your page and add public or private your constructor tag
+- Create Provider WebService
+- Import WebService Provider and HttpClientModule  "app/app.module.ts" 
+- Add "WebServiceProvider" providers tag and Add HttpClientModule add imports tag
+- Import WebService Provider your page and add public or private your constructor tag
 
 - Example:
        
