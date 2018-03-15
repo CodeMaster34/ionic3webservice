@@ -4,7 +4,7 @@
 # METHODS
 Http Get, Http Post
 
-# USİNG GENERAL
+# USING GENERAL
 - Create Provider WebService
 - Import WebService Provider and HttpClientModule  "app/app.module.ts" 
 - Add "WebServiceProvider" providers tag and Add HttpClientModule add imports tag
