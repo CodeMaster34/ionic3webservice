@@ -11,7 +11,7 @@ import 'rxjs/add/operator/map';
 
 @Injectable()
 export class WebServiceProvider {
-  public api = "http://213.74.188.242:8080/randevu/service/";
+  public api = "http://apiurl.com/";
 
   constructor(public http: HttpClient, private alert: AlertController) {
     
